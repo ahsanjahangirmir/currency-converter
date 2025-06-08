@@ -67,9 +67,13 @@ form input{
     width: auto;
 }
 
+.msg{
+    margin: 2rem 0 2rem 0;
+    font-size: 1.15rem;
+}
+
 form button{
     height: 3rem;
-    margin: 2rem 0 2rem 0;
     background-color: #af4d98;
     color: white;
     font-size: 1.15rem;
